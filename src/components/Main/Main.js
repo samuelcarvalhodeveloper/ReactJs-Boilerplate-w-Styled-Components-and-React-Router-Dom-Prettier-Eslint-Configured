@@ -4,8 +4,9 @@ function Main() {
   return (
     <MainStyle>
       <div>
-        <h2>React</h2>
-        <h1>Template</h1>
+        <h3>React-Boilerplate</h3>
+        <h2>React-Boilerplate</h2>
+        <h1>React-Boilerplate</h1>
       </div>
     </MainStyle>
   );
