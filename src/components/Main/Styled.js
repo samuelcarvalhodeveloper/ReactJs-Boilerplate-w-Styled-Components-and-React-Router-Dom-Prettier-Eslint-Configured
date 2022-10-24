@@ -15,7 +15,7 @@ const Main = styled.section`
   }
 
   h2 {
-    font-size: 3.2rem;
+    font-size: 3.8rem;
     color: #232220;
   }
 `;
