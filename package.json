@@ -1,5 +1,5 @@
 {
-  "name": "ReactJs-Template",
+  "name": "ReactJs-Boilerplate(w/ Styled-Components and React-Router-Dom)",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
