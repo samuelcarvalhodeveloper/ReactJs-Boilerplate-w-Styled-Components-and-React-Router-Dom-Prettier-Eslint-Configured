@@ -21,3 +21,7 @@ body {
 :focus {
   outline: 0.3rem solid dodgerblue;
 }
+
+:active {
+  outline: none;
+}
